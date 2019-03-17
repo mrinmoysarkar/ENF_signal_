@@ -1,0 +1,72 @@
+60-POWER
+classified name:
+ACINACINAIC
+correct name:
+ACINACINAIC
+   100
+
+60-AUDIO
+classified name:
+NACCNINI
+correct name:
+NACCAINI
+   87.5000
+
+50-POWER
+classified name:
+HFDFDEBBFGBDGEHHEFG
+correct name:
+HFDFDEBBNGBDGEHHEFG
+   94.7368
+
+50-AUDIO
+classified name:
+FBHBHDGEHEFE
+correct name:
+FBGBHDGDHEFE
+   83.3333
+
+over all system correctness:
+    92
+
+
+
+
+
+
+
+
+
+
+
+
+60-POWER
+classified name:
+NACAINICNAINACNACACAAA
+correct name:
+NACAINICNAINACCCIICAIA
+   77.2727
+
+60-AUDIO
+classified name:
+NCIIANNNINCNIINNI
+correct name:
+CANIINIICCNAICACN
+   17.6471
+
+50-POWER
+classified name:
+DFGDHBGFEHHHDNHBEEBEEEGHEDGEEBBHBHDHBE
+correct name:
+DNNFGBGFEHHHDFHBDEBEFGGHEDGEEBEGBHDGBF
+   68.4211
+
+50-AUDIO
+classified name:
+EDHHGBFHHFDGFEFEFHFBBBB
+correct name:
+DDDBGHGHFDEGFFGEEHDHBBB
+   43.4783
+
+over all system correctness:
+    56
