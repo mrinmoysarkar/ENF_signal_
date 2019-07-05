@@ -1,8 +1,8 @@
 clear all;
 close all;
 load('database_LF_HF.mat');
-load('train_acc_check.mat')
-%load('practice.mat');
+%load('train_acc_check.mat')
+load('practice.mat');
 %load('Test.mat');
 %practice = practice;% all practice data
 PRACTICE{1} = practice60p;%only 60hz power
