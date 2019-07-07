@@ -1,5 +1,6 @@
 function a = enf_feature_50_all(lf,hf)
 warning('all','off');
+%50p
 a(1)=mean(lf);%lF
 s=0;
 for i=1:length(lf)-1
